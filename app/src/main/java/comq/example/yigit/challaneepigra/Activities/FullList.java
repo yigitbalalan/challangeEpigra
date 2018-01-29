@@ -85,7 +85,7 @@ public class FullList extends AppCompatActivity implements AdapterView.OnItemCli
     @Override
     public void onItemClick(AdapterView<?> adapterView, View view, int i, long l) {
 
-        if(i<=5)
+
 
 
 
